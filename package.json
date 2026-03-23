@@ -6,7 +6,7 @@
     "node": "24.x"
   },
   "scripts": {
-    "start": "n8n start"
+    "start": "n8n start --tunnel"
   },
   "dependencies": {
     "n8n": "^1.123.26"
