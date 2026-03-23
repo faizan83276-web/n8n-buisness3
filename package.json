@@ -1,0 +1,14 @@
+{
+  "name": "n8n-business",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.123.26"
+  }
+}
