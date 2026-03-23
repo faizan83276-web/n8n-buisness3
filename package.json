@@ -1,7 +1,7 @@
 {
   "name": "n8n-business",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
   "engines": {
     "node": "24.x"
   },
@@ -9,6 +9,6 @@
     "start": "n8n start --tunnel"
   },
   "dependencies": {
-    "n8n": "^1.123.26""start": "n8n start --tunnel --tunnel-subdomain your-subdomain"
+    "n8n": "^1.123.26"
   }
 }
